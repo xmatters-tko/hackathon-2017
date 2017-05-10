@@ -4,7 +4,7 @@ _June 6-8th, 2017 at Hyatt Regency Vancouver._
 
 ![Battle Snake](docs/bs-logo-dark.png)
 
-BattleSnake is an annual programming competition held in Victoria, BC. Teams program web-based AIs for the classic arcade game "Snake".
+BattleSnake is an annual programming competition held in Victoria, BC.  The competition have teams program web-based AIs for the classic arcade game "Snake".  The 2017 xMatters TKO coding challenge will be BattleSnakes!
 
 ![Example Game Animation](docs/game.gif)
 
@@ -42,7 +42,7 @@ Every team must show up with a laptop and have the following software installed:
 We have provided a list of starter snakes that are Heroku ready, for the most common languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
 
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
-* [xm-battlesnake-node](https://github.com/xmatters-tko/xm-battlesnake-node)
+* [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
 * [xm-battlesnake-python](https://github.com/xmatters-tko/xm-battlesnake-python)
 * [xm-battlesnake-go](https://github.com/xmatters-tko/xm-battlesnake-go)
 * [xm-battlesnake-ruby](https://github.com/xmatters-tko/xm-battlesnake-ruby)
