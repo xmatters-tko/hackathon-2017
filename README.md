@@ -46,9 +46,9 @@ All clients are expected to respond within 200ms of the server's initial request
 All the details are documented at [BattleSnake API Reference](https://stembolthq.github.io/battle_snake/)
 
 ## Team Registration
-Any team can register through a Slack channel, #hackathon-2017, by using the following command:
+Any team can register through the Slack channel, #hackathon-2017, by using the following command:
 ```
-tko register <team-name> <snake url>
+leaderboard register <team-name> for http://<snake-app>.heroku.com
 ```
 This will add your team and it's snake to the list of participants. If you do not register, see @nick or @craig for help.
 
