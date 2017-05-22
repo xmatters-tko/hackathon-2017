@@ -24,9 +24,7 @@ We have provided a list of starter snakes that are Heroku ready, for the most co
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
 * [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
 * [xm-battlesnake-python](https://github.com/xmatters-tko/xm-battlesnake-python)
-* [xm-battlesnake-go](https://github.com/xmatters-tko/xm-battlesnake-go)
 * [xm-battlesnake-ruby](https://github.com/xmatters-tko/xm-battlesnake-ruby)
-* [xm-battlesnake-clojure](https://github.com/xmatters-tko/xm-battlesnake-clojure)
 
 ## Testing Your Snake
 #### Curl your Snake
