@@ -56,8 +56,8 @@ The competition will include a round robin tournament starting after the first h
 * Every team has the chance to score that same number of points
 
 The competition will end with a battle royale single elimination tournament:
-* Round One - Top 8 teams will be divided between four tables, last snake moves one to the second round
-* Round Two - Top 4 teams will be divided between two tables, last snake moves one to the final round
+* Round One - Top 8 teams will be divided between four tables, last snake moves on to the second round
+* Round Two - Top 4 teams will be divided between two tables, last snake moves on to the final round
 * Final Round - top two snakes will go head to head until one snake wins
 * First place wins 20 points, and the second place wins 10 points
 
