@@ -101,11 +101,7 @@ Teams score points by winning games against other snakes during the competition.
   * Tournament Winner - 25 points
 
 ### Leaderboard
-We will be tracking a leaderboard during the competion using Slack. Join #hackathon-2017 and you can run any of the following commands:
-```
-leaderboard [top|bottom]
-leaderboard score for <team-name>
-```
+We will be tracking a leaderboard during the competion. You can view the TKO leaderboard any time at https://share.geckoboard.com/dashboards/E2FC240E281D07A0.
 
 ## Pro Tips
 Each team will have people from different disciplines and skill sets. Work together as a team to ensure that everyone is involved in some capacity. Here are some tips on getting organized:
@@ -123,6 +119,12 @@ The competition is intended to be fun and generate camaraderie with your fellow 
 * Don't plagarize other snakes.
 * No DDoSing your opponents.
 
+## Getting Started
+So what now!?
+* Sign up for the free accounts
+* Install the Pre-requisites CLI tools
+* Pick a Starter Snake
+* Follow instructions
 
 ## Asking for Help
-We'll have a number of game officials that will be able to assist with getting the start snakes up and running, answering questions, helping on code reviews, etc. Call on anyone wearing the 
+We'll have a number of game officials that will be able to assist with getting the start snakes up and running, answering questions, helping on code reviews, etc. Call on anyone you see wearing the Red ball caps!
