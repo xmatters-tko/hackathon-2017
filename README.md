@@ -122,9 +122,9 @@ The competition is intended to be fun and generate camaraderie with your fellow 
 ## Getting Started
 So what now!?
 * Sign up for the free accounts
-* Install the pre-requisite CLI tools
+  * Install the pre-requisite CLI tools
 * Pick a starter snake
-* Follow instructions
+  * Follow instructions
 * Pick a name for your snake app
   * For example, famous villains: Blofeld, Snake Plissken, Darth Vader, Hans Gruber, Kyser Soze, Sauron
 * Get coding!
