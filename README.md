@@ -126,7 +126,7 @@ So what now!?
 * Pick a starter snake
 * Follow instructions
 * Pick a name for your snake app
- * For example, famous villains: Blofeld, Snake Plissken, Darth Vader, Hans Gruber, Kyser Soze, Sauron
+  * For example, famous villains: Blofeld, Snake Plissken, Darth Vader, Hans Gruber, Kyser Soze, Sauron
 * Get coding!
 
 ## Asking for Help
