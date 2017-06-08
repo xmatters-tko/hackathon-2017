@@ -74,8 +74,11 @@ We have provided a list of starter snakes that are Heroku ready, for the some co
 #### Curl your Snake
 Like any web client, you can easily test your snake using curl which comes on most modern operating systems. The [BattleSnake API Reference](https://stembolthq.github.io/battle_snake/) has example curl commands for each end point you must implement.
 
+#### Getting your own Game Server
+Each team can have access to a game server of their very own to help iterate on your snake's AI. These game servers are not shared and not intended for competition, only for learning and building your snake.
+
 ## Team Registration
-Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.
+Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  Pete will provide you the IP address of your game server.
 
 ## Competition
 The competetion will involve two parts: random head to head games followed by a three round elimination tournament. The event will start with the head to head competition for the first three hours.
@@ -94,10 +97,10 @@ The event will end with a tournament where the top 8 snakes will compete for big
 ## Scoring
 Teams score points by winning games against other snakes during the competition. Every team has the chance to score that same number of points.
 * Head-to-Head Games
-  * Winner gets 5 points
+  * Winner gets 10 points
   * Every team competes in 5 games
 * Tournaments Games
-  * Tournament Runner up - 10 points
+  * Tournament Runner up - 15 points
   * Tournament Winner - 25 points
 
 ### Leaderboard
@@ -125,8 +128,8 @@ So what now!?
   * Install the pre-requisite CLI tools
 * Pick a starter snake
   * Follow instructions
-* Pick a name for your snake app
-  * For example, famous villains: Blofeld, Snake Plissken, Darth Vader, Hans Gruber, Kyser Soze, Sauron
+* Register your snake
+  * use your team name
 * Get coding!
 
 ## Asking for Help
