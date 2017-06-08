@@ -1,6 +1,6 @@
 # xMatters TKO 2017 Coding Challenge
 
-_June 6-8th, 2017 at Hyatt Regency Vancouver._
+_June 8th, 2017 at Pan Pacific Vancouver._
 
 ![Battle Snake](docs/bs-logo-dark.png)
 
