@@ -1,10 +1,10 @@
-# xMatters TKO 2017 Coding Challenge
+# xMatters TKO 2019 Coding Challenge
 
-_June 8th, 2017 at Pan Pacific Vancouver._
+_July 11th, 2019 at Westin Hotel, Whistler._
 
 ![Battle Snake](docs/bs-logo-dark.png)
 
-The 2017 xMatters TKO coding challenge will be BattleSnake!
+The 2019 xMatters TKO coding challenge will be BattleSnake! ...Again!!!
 
 BattleSnake is an adaptation of the classic video game "Snake", where the player maneuvers a snake around the play field to collect food pellets, which makes the snake grow longer. The main objective is to collect as much food as as possible, while avoiding hitting obstacles, such as other snakes and most importantly - your own snake.
 
@@ -97,11 +97,9 @@ The event will end with a tournament where the top 8 snakes will compete for big
 ## Scoring
 Teams score points by winning games against other snakes during the competition. Every team has the chance to score that same number of points.
 * Head-to-Head Games
-  * Winner gets 10 points
-  * Every team competes in 5 games
+  * TBD
 * Tournaments Games
-  * Tournament Runner up - 15 points
-  * Tournament Winner - 25 points
+  * TBD
 
 ### Leaderboard
 We will be tracking a leaderboard during the competion. You can view the TKO leaderboard any time at https://share.geckoboard.com/dashboards/E2FC240E281D07A0.
