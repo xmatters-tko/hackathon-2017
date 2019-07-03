@@ -75,10 +75,10 @@ We have provided a list of starter snakes that are Heroku ready, for the some co
 Like any web client, you can easily test your snake using curl which comes on most modern operating systems. The [BattleSnake API Reference](https://stembolthq.github.io/battle_snake/) has example curl commands for each end point you must implement.
 
 #### Getting your own Game Server
-Each team can have access to a game server of their very own to help iterate on your snake's AI. These game servers are not shared and not intended for competition, only for learning and building your snake.
-
+Each team should run a game server locally to help iterate on your snake's AI. 
+games servers can be run on docker with : `docker run -it -p 4000:4000 stembolt/battle_snake`
 ## Team Registration
-Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  Pete will provide you the IP address of your game server.
+Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  
 
 ## Competition
 The competetion will involve two parts: random head to head games followed by a three round elimination tournament. The event will start with the head to head competition for the first three hours.
