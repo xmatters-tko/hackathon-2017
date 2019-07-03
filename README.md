@@ -63,12 +63,10 @@ Every team must show up with a laptop and have the following software installed 
 
 
 ## Starter Snakes
-We have provided a list of starter snakes that are Heroku ready, for the some common languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
-
+We have provided a list of starter snakes that are Heroku ready, for javascript and java languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
+Unlike the previous event the snakes are programmed to avoid walls so that you can jump into some more fun aspects right away 
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
 * [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
-* [xm-battlesnake-python](https://github.com/xmatters-tko/xm-battlesnake-python)
-* [xm-battlesnake-ruby](https://github.com/xmatters-tko/xm-battlesnake-ruby)
 
 ### Testing Your Snake
 #### Curl your Snake
@@ -76,7 +74,7 @@ Like any web client, you can easily test your snake using curl which comes on mo
 
 #### Getting your own Game Server
 Each team should run a game server locally to help iterate on your snake's AI. 
-games servers can be run on docker with : `docker run -it -p 4000:4000 stembolt/battle_snake`
+Game servers can be run on docker with: `docker run -it -p 4000:4000 stembolt/battle_snake`
 ## Team Registration
 Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  
 
