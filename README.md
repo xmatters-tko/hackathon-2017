@@ -77,32 +77,12 @@ Like any web client, you can easily test your snake using curl which comes on mo
 #### Getting your own Game Server
 Each team should run a game server locally to help iterate on your snake's AI. 
 Game servers can be run on docker with: `docker run -it -p 4000:4000 stembolt/battle_snake`
+
 ## Team Registration
 Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  
 
 ## Competition
-The competetion will involve two parts: random head to head games followed by a three round elimination tournament. The event will start with the head to head competition for the first three hours.
-* Each team must compete in exactly five games
-* When ready for competition notify a game official (Tobias)
-* Game starts when two snakes are ready
-  * FIFO queue until the board is open
-* Two snakes cannot face each other more than once
-* In case of a draw, neither team scores any points
-
-The event will end with a tournament where the top 8 snakes will compete for big points, and bragging rights!
-* Three elimination rounds
-* Snakes will be randomly paired to go head to head in each round
-* Best of three games will advance to the next round
-
-## Scoring
-Teams score points by winning games against other snakes during the competition. Every team has the chance to score that same number of points.
-* Head-to-Head Games
-  * TBD
-* Tournaments Games
-  * TBD
-
-### Leaderboard
-We will be tracking a leaderboard during the competion. You can view the TKO leaderboard any time at https://share.geckoboard.com/dashboards/E2FC240E281D07A0.
+tbd
 
 ## Pro Tips
 Each team will have people from different disciplines and skill sets. Work together as a team to ensure that everyone is involved in some capacity. Here are some tips on getting organized:
