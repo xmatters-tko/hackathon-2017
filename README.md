@@ -64,7 +64,7 @@ Every team must show up with a laptop and have the following software installed 
 
 ## Starter Snakes
 We have provided a list of starter snakes that are Heroku ready, for javascript and java languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
-Unlike the previous event the snakes are programmed to avoid walls so that you can jump into some more fun aspects right away 
+Unlike the previous event the snakes are pre-programmed to seek out food so that you can jump into some more fun aspects right away 
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
 * [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
 
