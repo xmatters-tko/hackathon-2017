@@ -1,10 +1,10 @@
-# xMatters TKO 2017 Coding Challenge
+# xMatters TKO 2019 Coding Challenge
 
-_June 8th, 2017 at Pan Pacific Vancouver._
+_July 11th, 2019 at Westin Hotel, Whistler._
 
 ![Battle Snake](docs/bs-logo-dark.png)
 
-The 2017 xMatters TKO coding challenge will be BattleSnake!
+The 2019 xMatters TKO coding challenge will be BattleSnake! ...Again!!!
 
 BattleSnake is an adaptation of the classic video game "Snake", where the player maneuvers a snake around the play field to collect food pellets, which makes the snake grow longer. The main objective is to collect as much food as as possible, while avoiding hitting obstacles, such as other snakes and most importantly - your own snake.
 
@@ -63,22 +63,20 @@ Every team must show up with a laptop and have the following software installed 
 
 
 ## Starter Snakes
-We have provided a list of starter snakes that are Heroku ready, for the some common languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
-
+We have provided a list of starter snakes that are Heroku ready, for javascript and java languages. Each project has a set of instructions on how to get it deployed and running on Heroku using the Git and Heroku command line tools.
+Unlike the previous event the snakes are programmed to avoid walls so that you can jump into some more fun aspects right away 
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
 * [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
-* [xm-battlesnake-python](https://github.com/xmatters-tko/xm-battlesnake-python)
-* [xm-battlesnake-ruby](https://github.com/xmatters-tko/xm-battlesnake-ruby)
 
 ### Testing Your Snake
 #### Curl your Snake
 Like any web client, you can easily test your snake using curl which comes on most modern operating systems. The [BattleSnake API Reference](https://stembolthq.github.io/battle_snake/) has example curl commands for each end point you must implement.
 
 #### Getting your own Game Server
-Each team can have access to a game server of their very own to help iterate on your snake's AI. These game servers are not shared and not intended for competition, only for learning and building your snake.
-
+Each team should run a game server locally to help iterate on your snake's AI. 
+Game servers can be run on docker with: `docker run -it -p 4000:4000 stembolt/battle_snake`
 ## Team Registration
-Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  Pete will provide you the IP address of your game server.
+Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  
 
 ## Competition
 The competetion will involve two parts: random head to head games followed by a three round elimination tournament. The event will start with the head to head competition for the first three hours.
@@ -97,11 +95,9 @@ The event will end with a tournament where the top 8 snakes will compete for big
 ## Scoring
 Teams score points by winning games against other snakes during the competition. Every team has the chance to score that same number of points.
 * Head-to-Head Games
-  * Winner gets 10 points
-  * Every team competes in 5 games
+  * TBD
 * Tournaments Games
-  * Tournament Runner up - 15 points
-  * Tournament Winner - 25 points
+  * TBD
 
 ### Leaderboard
 We will be tracking a leaderboard during the competion. You can view the TKO leaderboard any time at https://share.geckoboard.com/dashboards/E2FC240E281D07A0.
