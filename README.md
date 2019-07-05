@@ -56,6 +56,7 @@ There are a number of controllable variables on each game server but the followi
 
 ## Pre-requisites
 Every team must show up with a laptop and have the following software installed in order to use the provided start snakes.
+* Docker  (https://www.docker.com/products/docker-desktop)
 * Git CLI (https://git-scm.com/downloads)
 * Heroku CLI (https://devcenter.heroku.com/articles/heroku-cli)
 * Create a free account on Github - https://www.github.com/
@@ -67,6 +68,7 @@ We have provided a list of starter snakes that are Heroku ready, for javascript 
 Unlike the previous event the snakes are pre-programmed to seek out food so that you can jump into some more fun aspects right away 
 * [xm-battlesnake-java](https://github.com/xmatters-tko/xm-battlesnake-java)
 * [xm-battlesnake-nodejs](https://github.com/xmatters-tko/xm-battlesnake-nodejs)
+* [xm-battlesnake-python](https://github.com/xmatters-tko/xm-battlesnake-python) python does not currently have a food seeking algorithm 
 
 ### Testing Your Snake
 #### Curl your Snake
