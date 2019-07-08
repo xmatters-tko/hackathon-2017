@@ -93,7 +93,7 @@ The competition will be single elimination bracket of 16 teams 3-4 people per te
 ## Prizes
 * 1st place 2000
 * 2nd place 1000
-* semi-finalists $500
+* Semi-finalists $500
 
 * Battle Royale winner  $1000
 
