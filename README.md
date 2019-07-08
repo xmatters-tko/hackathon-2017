@@ -40,8 +40,11 @@ We will be hosting a game server where the games will be played. The game server
 ## Snake End Points
 The creators of the BattleSnake server, StemboltHQ, have provided documentation for the API calls that each snake is required to implement. Basically, all competing clients are expected to provide a web application that is available at a routeable URL that can respond to HTTP requests and provide a route to three end points:
 * POST /start
+  * This is where you customize the appearance of your snake.  Spend a bit of time to make your snake unique.
 * POST /move
+  * This is where your game logic is going to go. Basically, the server makes a call to your snake API endpoint, with all the game state in the `request` object.  Using that information, you need to return a `Move` object back to the server stating if you are going to go Up, Down, Left, or Right.  How hard could it be?
 * POST /end
+  * Just leave this one as it is.
 
 All clients are expected to respond within 500ms of the server's initial request. Failing to respond before the timemout may result in the server choosing a random move for you. All responses are expected to have a 200 OK status code.
 
@@ -107,6 +110,8 @@ Each team will have people from different disciplines and skill sets. Work toget
   * creating helper functions, laying out board strategy, figuring out testing
 * Consider building mulitple snakes
   * divide and conquer by building several snakes and submitting the best one (only one can be submitted)
+* Test your snake in battle
+  * You will learn a lot just by watching your snake in battle.  By running a local server, you can easily have your snake fight itself.  Maybe have a friendly battle with another team... or have a go with Shaun's snake at `https://stk-battlesnake.herokuapp.com`
 
 ### Sportsmanship
 The competition is intended to be fun and generate camaraderie with your fellow xPerts. There are plenty of examples and existing snakes on the internet. For obvious reasons these are off limits and defeat the purpose of the competition. So you will be competing based on the honor system.  We will not be able to police this as internet access is required to build and run your snake, However, if you are caught your snake will be disqualified from the competition. Play fair and keep it fun!
