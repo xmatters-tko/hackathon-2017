@@ -88,11 +88,14 @@ the competition will be single elimination bracket of 16 teams 3-4 people per te
 * semi final best 2 of 3
 * final best 2 of 3
 
+* the twelve first and second round losers will get places in a 3 match battle royale
+
+## Prizes
 * 1st place 2000
 * 2nd place 1000
 * semi-finalists $500
 
-the twelve first and second round losers will get places in a 3 match battle royale with the winner getting $1000
+* Battle Royale winner  $1000
 
 ## Pro Tips
 Each team will have people from different disciplines and skill sets. Work together as a team to ensure that everyone is involved in some capacity. Here are some tips on getting organized:
