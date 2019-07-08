@@ -82,15 +82,15 @@ Game servers can be run on docker with: `docker run -it -p 4000:4000 stembolt/ba
 Every team are required their Snake URL before they can compete and scoring points! Registration is simple. Find Pete Kosa, given him your team name, and a working url of your snake. You cannot change the URL of your snake once registered. There's no time limit on registration can be done at any time prior to your first match.  
 
 ## Competition
-the competition will be single elimination bracket of 16 teams 3-4 people per team
-round of 16 - one match 
-round of 8 - one match
-semi final best 2 of 3
-final best 2 of 3
+the competition will be single elimination bracket of 16 teams 3-4 people per team :
+* round of 16 - one match 
+* round of 8 - one match
+* semi final best 2 of 3
+* final best 2 of 3
 
-1st place 2000
-2nd place 1000
-semi-finalists $500
+* 1st place 2000
+* 2nd place 1000
+* semi-finalists $500
 
 the twelve first and second round losers will get places in a 3 match battle royale with the winner getting $1000
 
